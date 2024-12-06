@@ -1,0 +1,16 @@
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\bin\Debug\net8.0-windows\currencyConverter.exe
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\bin\Debug\net8.0-windows\currencyConverter.deps.json
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\bin\Debug\net8.0-windows\currencyConverter.runtimeconfig.json
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\bin\Debug\net8.0-windows\currencyConverter.dll
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\bin\Debug\net8.0-windows\currencyConverter.pdb
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.curerncyConverterForm.resources
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.csproj.GenerateResource.cache
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.AssemblyInfoInputs.cache
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.AssemblyInfo.cs
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.dll
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\refint\currencyConverter.dll
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.pdb
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\currencyConverter.genruntimeconfig.cache
+C:\Users\Lakshm.Padmanab8828\Downloads\Currency-Converter-main\Currency-Converter-main\currencyCalculator\currencyCalculator\obj\Debug\net8.0-windows\ref\currencyConverter.dll
